@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FlexiMarket.SharedKernel/FlexiMarket.SharedKernel.csproj" />
+    <Project Path="src/OrderManagement.Application/OrderManagement.Application.csproj" />
+    <Project Path="src/OrderManagement.Domain/OrderManagement.Domain.csproj" />
+    <Project Path="src/OrderManagement.Infrastructure/OrderManagement.Infrastructure.csproj" />
+    <Project Path="src/OrderManagement.WebApi/OrderManagement.WebApi.csproj" Id="61fa407d-3122-4ecb-90aa-43902cb36531" />
+  </Folder>
+</Solution>
