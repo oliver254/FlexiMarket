@@ -1,4 +1,9 @@
-﻿using FlexiMarket.SharedKernel.Interfaces;
+﻿using FlexiMarket.OrderManagement.Application.Interfaces;
+using FlexiMarket.OrderManagement.Domain.Entities;
+using FlexiMarket.OrderManagement.Domain.Exceptions;
+using FlexiMarket.OrderManagement.Domain.ValueObjects;
+using FlexiMarket.SharedKernel.Interfaces;
+using Microsoft.Extensions.Logging;
 
 namespace FlexiMarket.OrderManagement.Application.UseCases.Commands;
 

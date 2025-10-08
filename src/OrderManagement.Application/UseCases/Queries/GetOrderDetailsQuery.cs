@@ -1,11 +1,8 @@
 ﻿using FlexiMarket.OrderManagement.Application.Interfaces;
 using FlexiMarket.OrderManagement.Application.UseCases.Commands;
+using FlexiMarket.OrderManagement.Domain.Exceptions;
 using FlexiMarket.SharedKernel.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.Extensions.Logging;
 
 namespace FlexiMarket.OrderManagement.Application.UseCases.Queries;
 
